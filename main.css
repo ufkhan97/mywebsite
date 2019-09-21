@@ -1,0 +1,45 @@
+body { 
+       height: 100%;
+       margin : 0;
+       text-align: center;
+       width: 100%;
+       background-color: black;
+       background-image: url("space.jpg");
+        background-size: cover;
+}
+
+h1{
+    font-size: 32px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color: blue;
+}
+
+.NavBar {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+.NavBar a{
+    color: Red;
+    font-size: 1.3rem;
+}
+
+.NavBar p{
+    color: AntiqueWhite;
+    font-size: 1.5rem;
+}
+
+.main {
+    color: White;
+    
+}
+
+.main p{
+    font-size: 1.2rem;
+    
+}
+
+
+
+
+
+
